@@ -1,0 +1,10 @@
+Package: rwfs
+Title: An R Web Feature Service server
+Version: 0.0
+Author: Barry Rowlingson <b.rowlingson@gmail.com>
+Maintainer: Barry Rowlingson <b.rowlingson@gmail.com>
+Description: Read your R spatial objects in other GIS packages.
+Depends:
+  R (>=2.15),
+  sp
+License: MIT
